@@ -18,7 +18,7 @@ To work with this project, you need to have the following software installed:
 
 # Getting Started
 
-1. Clone the project repository: ``
+1. Clone the project repository: `git clone https://github.com/HarshVerma007/Business-Card-AR.git`
 2. Open Unity and select "Open Project."
 3. Navigate to the cloned repository and select the Unity project folder.
 4. Once the project is open, ensure that you have the necessary scenes, scripts, and assets in the project hierarchy.
